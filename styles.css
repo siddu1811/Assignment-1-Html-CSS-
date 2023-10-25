@@ -1,0 +1,93 @@
+h1{
+    text-align: center;
+}
+.reg{
+    text-align: center;
+}
+.sign
+{
+    float: right;
+    font-size:x-large;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.container
+{
+  width: 100%;
+  height: 80px;
+  margin: 10px auto;
+  background-color:orange;
+}
+.hmm
+{
+    margin-left: 10%;
+}
+.middle
+{
+    width: 100%;
+    height:100px;
+}
+.ab,.abc,.abcd,.abcde
+{
+    color:azure;
+    font-size: x-large;
+}
+.ab,.abc,.abcd,.abcde{
+    display: inline-block;
+    margin-left : 15%; 
+}
+
+.ab{
+    margin:auto;
+}
+.popular,.clothing,.deals
+{
+    width: 20%;
+    height: 100%;
+    background-color: blanchedalmond;
+    display: inline-block;
+    text-align: center;
+
+}
+.welcome
+{
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.well
+{
+    margin-left: 10%;
+}
+.last
+{
+    margin-bottom: 100px;
+}
+.about,.jobs,.resources,.help{
+    width:  20%;
+    height: 300px;
+    display: inline-block;
+
+}
+.foot
+{
+    width:100%;
+    height: 50px;
+    background-color: orange;
+    margin-top: 20px;
+}
+footer{
+    margin-left : 20%;
+}
+.para{
+    color: azure;
+    text-align: center;
+    font-size: x-large;
+}
+img
+{
+    width:100px;
+    height:100px;
+}
